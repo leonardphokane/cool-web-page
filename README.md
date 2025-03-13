@@ -14,10 +14,7 @@
 
 </head>
      
-      <h1>🌟 Welcome to HTML5</h1>
-         <h1>🌟 My Awesome Website</h1>
-
-        <h3>🎯 Subheading 2</h3>
+     
          
 
 <body>
