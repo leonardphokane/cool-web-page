@@ -15,6 +15,7 @@
 <body>
 
     <!-- Your masterpiece goes here 🎉 -->
+    <p>HTML is easy and fun! 🎈</p>
 
 </body>
 
