@@ -14,7 +14,7 @@
 
 </head>
      
-     <title>🎨 My Cool Web Page</title>
+     <title>My Cool Web Page</title>
          
 
 <body>
