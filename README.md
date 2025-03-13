@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <html lang="en">
-
+<title>🎨 My Cool Web Page</title>
 <head>
 
     <meta charset="UTF-8">
@@ -18,7 +18,7 @@
          
 
 <body>
-  <title>🎨 My Cool Web Page</title>
+  
     <!-- Your masterpiece goes here 🎉 -->
     <p>HTML is easy and fun! 🎈</p>
 </body>
