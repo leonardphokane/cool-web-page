@@ -17,6 +17,7 @@
          <h2>✨ Subheading 1</h2>
 
         <h3>🎯 Subheading 2</h3>
+         <a href="https://www.example.com" target="_blank">Click here to explore! 🌍</a>
 
 <body>
 
