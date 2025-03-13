@@ -25,6 +25,13 @@
     <ol>
 
       <li>HTML</li>
+        <ul>
+
+      <li>Apples 🍎</li>
+
+      <li>Bananas 🍌</li>
+
+  </ul>
 
       <li>CSS</li>
 
