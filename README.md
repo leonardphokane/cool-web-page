@@ -21,14 +21,6 @@
   <title>🎨 My Cool Web Page</title>
     <!-- Your masterpiece goes here 🎉 -->
     <p>HTML is easy and fun! 🎈</p>
-    <ol>
-
-      
-
- 
-
-     \
-
 </body>
 
 </html>
